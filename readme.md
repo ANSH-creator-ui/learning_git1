@@ -10,6 +10,9 @@
 
 random line
 
+```python
+print("hi")
+
 1. pointer 1
 2. pointer 2
 
